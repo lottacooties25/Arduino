@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid="Your SSID";
-const char* password = "Your Password";
+const char* ssid="drop it like its hotspot";
+const char* password = "password";
 
 int ledPin = 13;
 
